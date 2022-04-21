@@ -1,0 +1,7 @@
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\obj\Debug\Jeu5000.csprojAssemblyReference.cache
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\obj\Debug\Jeu5000.csproj.CoreCompileInputs.cache
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\bin\Debug\Jeu5000.exe.config
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\bin\Debug\Jeu5000.exe
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\bin\Debug\Jeu5000.pdb
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\obj\Debug\Jeu5000.exe
+C:\Users\200253\Desktop\Jeu5000\Jeu5000\obj\Debug\Jeu5000.pdb
